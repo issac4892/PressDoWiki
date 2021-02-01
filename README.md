@@ -1,6 +1,6 @@
 # PressDoWiki - Fast & Light PHP Wiki Engine
 
---------------------------------------
+-------------------------
 
 [![Issues](https://img.shields.io/github/issues/aaei924/PressDoWiki?style=for-the-badge)](https://github.com/aaei924/PressDoWiki)
 [![Forks](https://img.shields.io/github/forks/aaei924/PressDoWiki.svg?style=for-the-badge)](https://github.com/aaei924/PressDoWiki)
